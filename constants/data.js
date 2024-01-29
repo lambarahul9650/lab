@@ -70,7 +70,7 @@ const data = {
 		{
 			id: 1,
 			userImage: images.testinomialAvatar,
-			userName: "Edward Newgate",
+			userName: "Rahul Lamba",
 			userSubHeading: "Founder Circle",
 			reviewText:
 				"Our dedicated patient engagement app and web portal allow you to access information instantaneously (no tedeous form, long calls, or administrative hassle) and securely",
