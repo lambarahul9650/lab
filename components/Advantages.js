@@ -7,7 +7,7 @@ const advantageData = [
 		title: "Leading healthcare providers",
 		image: images.leadingHealthProvider,
 		description:
-			"Trafalgar provides progressive, and affordable healthcare, accessible on mobile and online for everyone. To us, it’s not just work. We take pride in the solutions we deliver",
+			"Indo Arab Diagnostic provides progressive, and affordable healthcare, accessible on mobile and online for everyone. To us, it’s not just work. We take pride in the solutions we deliver",
 		buttonText: "Learn More",
 	},
 	{

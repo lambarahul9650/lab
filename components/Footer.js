@@ -11,14 +11,14 @@ const Footer = () => {
 						{/* logo */}
 						<div className={styles.logoFooter}>T</div>
 						{/* Name */}
-						<h3>Trafalgar</h3>
+						<h3>Indo Arab Diagnostic</h3>
 					</div>
 					{/* description */}
 					<p className={`${styles.companyDes}`}>
-						Trafalgar provides progressive, and affordable
+					Indo Arab Diagnostic provides progressive, and affordable
 						healthcare, accessible on mobile and online for everyone
 					</p>
-					<p>©Trafalgar PTY LTD 2020. All rights reserved</p>
+					<p>©Indo Arab Diagnostic PTY LTD 2020. All rights reserved</p>
 				</div>
 				{/* Link Set 1 */}
 				<FooterLinkSet />
